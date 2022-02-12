@@ -21,7 +21,11 @@
 	✓kiadás dátuma: 2022.02.08.
 -BETA 2:
 	✓nyílt forráskód GitHub-on
-	✓választható kettő előre telepített téma
 	✓minimum, maximum számítása
+	✓új téma, amely a beállításokból választható
 	✓kiadás dátuma: 2022.02.12.
+-GAMMA 1:
+	✓hamarosan...
 
+
+Husky Technologies™ 
