@@ -21,8 +21,7 @@
 	✓kiadás dátuma: 2022.02.08.
 -BETA 2:
 	✓nyílt forráskód GitHub-on
-	✓választható három előre telepített téma
-	✓átlagtól való átlagos eltérés számítása
+	✓választható kettő előre telepített téma
 	✓minimum, maximum számítása
-	✓kiadás dátuma: 2022.02.
+	✓kiadás dátuma: 2022.02.12.
 
